@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4e918f7b.css",
+    "main.js": "./static/js/main.b33617e9.js",
+    "static/media/pexels-jeremy-bishop-6212576.jpg": "./static/media/pexels-jeremy-bishop-6212576.3a5f949bf5ad8f87c6bf.jpg",
+    "static/media/slide2.jpg": "./static/media/slide2.15062587e29ca95629c3.jpg",
+    "static/media/pexels-jeremy-bishop-2397414.jpg": "./static/media/pexels-jeremy-bishop-2397414.35c968c077ff8e13b1c0.jpg",
+    "static/media/greenhome.png": "./static/media/greenhome.6c9fc64ab8917dcdb050.png",
+    "static/media/home.jpg": "./static/media/home.142466813ffd8fa4fe2e.jpg",
+    "static/media/bg.jpg": "./static/media/bg.97e5090d6b6537f6993c.jpg",
+    "static/media/car_2.jpg": "./static/media/car_2.81359ce43a86fae7a2bf.jpg",
+    "static/media/car_1.jpg": "./static/media/car_1.4cbe6a1241248ba3fdfd.jpg",
+    "index.html": "./index.html",
+    "main.4e918f7b.css.map": "./static/css/main.4e918f7b.css.map",
+    "main.b33617e9.js.map": "./static/js/main.b33617e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e918f7b.css",
+    "static/js/main.b33617e9.js"
+  ]
+}
